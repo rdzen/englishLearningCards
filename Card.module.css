@@ -1,0 +1,10 @@
+  .card {
+		width: 50vw;
+		height: 12vh;
+		border: 5px solid #3700ff;
+		border-radius: 10px;
+		justify-content: center;
+    align-items: center;
+		font: bold 45px Arial;
+		text-align: center;
+  }

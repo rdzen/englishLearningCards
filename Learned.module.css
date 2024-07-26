@@ -1,0 +1,33 @@
+.learned {
+	max-height: 80vh;
+	overflow: auto;
+	background-color: #bce695; 
+	border: 1px solid #ddd; 
+	border-radius: 8px; 
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+	padding: 20px; 
+	margin: 20px; 
+}
+
+table {
+	width: 100%; 
+	border-collapse: collapse; 
+}
+
+thead {
+	font: bold 20px Arial black, sans-serif;
+}
+
+th, td {
+	padding: 12px;
+	text-align: left;
+	border-bottom: 1px solid #ddd; 
+}
+
+td {
+	background-color: #fff;
+}
+
+td:last-child {
+	text-align: center; 
+}
